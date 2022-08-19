@@ -1,0 +1,137 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 18 de ago de 2022, 01:01:21
+    Author     : STI
+*/
+
+.navbar{
+    background-color: #f3fade;
+}
+.active{
+    font-weight: bold;
+}
+
+
+.dropdown-item.active,
+.dropdown-item:active {
+    background-color: #99CC01;
+    border-color: #99CC01;
+}
+
+.tex{
+    font-family: inherit;
+    font-style: normal;
+
+    color: #000;
+}
+
+.btn-pagar{
+    
+    font-weight: bold;
+    background-color: #99CC01;
+    
+    color: white;
+    border: 0px;
+}
+
+.fixedHeightImg > img {
+    max-height: 782px;
+    margin-left: auto;
+    margin-right: auto;
+    width: auto;
+    background: rgba(0, 0, 0, 0.61);
+}
+
+.btn-um{
+    color: white;
+    font-family: inherit;
+    font-size: 20px;
+    background-color: #99CC01;
+    font-weight: bold;
+    border: 0;
+    border: solid 2px #99CC01;
+}
+
+.btn-dois{
+    color: white;
+    font-family: inherit;
+    font-size: 20px;
+    background-color: null;
+    font-weight: bold;
+    border: solid 2px white;
+}
+
+.carousel-caption > .texto{
+    font-family: inherit;
+    text-align: left;
+    align-items: center;
+}
+
+.rodape{
+    padding: 20px;
+    background-image: url("../../assets/imagens/index/fundo_rodape.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.links > h5{
+    font-weight: bold;
+    color: #000;
+}
+
+.rodape2{
+    padding: 10px;
+    background-color: #99CC01;
+}
+
+.nav-link{
+    padding: 0px;
+    color: #000;
+}
+
+.onde{
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 0px;
+    padding-right: 0px;
+    background-color: #166A9E;
+    color: white;
+    font-weight: bold;
+    font-family: inherit;
+}
+
+.fom{
+    background-image: url("../../assets/imagens/home_2-02 1.png");
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+.futuro{
+    background-image: url("../../assets/imagens/curso2 1.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.futuro > h1{
+    font-family: inherit;
+    font-weight: bold;
+    color: white;
+}
+
+.fom > h1{
+    font-family: inherit;
+    font-weight: bold;
+    color: white;
+}
+
+.fom > p{
+    font-family: inherit;
+    color: white;
+}
+
+.img-fluid{
+    height: 310px;
+}

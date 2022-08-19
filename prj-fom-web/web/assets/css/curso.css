@@ -1,0 +1,65 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 18 de ago de 2022, 22:11:57
+    Author     : STI
+*/
+
+.texto-egresso{
+    text-align: justify;
+    font-family: inherit;
+}
+
+h2{
+    font-weight: bold;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.matriz-curricular{
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+.list-group > .active{
+    background-color: #99CC01;
+    border-color: #99CC01;
+}
+
+.btn-form{
+    background-color: #99CC01;
+    border-color: #99CC01;
+    color:#ffffff;
+    font-weight: bold;
+}
+
+.curso-form{
+    background-image: url("../../assets/imagens/curso/background-curso-form.png");
+    background-repeat: no-repeat;
+    background-size: 120%;
+    margin-left: 0px;
+    margin-right: 0px;
+    
+    
+}
+
+.cabecalho-curso{
+    color: white;
+    margin-bottom: 20px;
+    font-family: inherit;
+}
+
+.cabecalho-curso > h1{
+    font-weight: bold;
+    font-size: 64px;
+}
+
+.cabecalho-curso > h3{
+    font-size: 36px;
+}
+
+.form{
+    background-color: rgba(243, 250, 222, 0.5);
+}
